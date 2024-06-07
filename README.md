@@ -23,6 +23,8 @@ Generate an image simulating a Carvaggio painting with the subject ressurection 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
+gerado o arquivo painting.jpeg simulando uma pintura do pintor Carvaggio
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
